@@ -1,0 +1,6 @@
+*-checkpoint
+.ipynb_checkpoints/
+*checkpoint
+*__pycache__
+*.jpg
+.idea/
